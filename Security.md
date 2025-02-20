@@ -15,6 +15,7 @@ Do not share the vulnerability publicly until it has been addressed and a patch 
 Security Updates
 We will notify users via GitHub releases for any critical security updates.
 Minor security patches will be included in regular updates as needed.
+
 Security Best Practices
 Make sure to use the latest version of Brave for the latest security features and patches.
 Follow password best practices, such as using strong, unique passwords for each account.
